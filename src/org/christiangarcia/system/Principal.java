@@ -7,7 +7,8 @@ package org.christiangarcia.system;
  */
 public class Principal {
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hola mundo,soy Christian");
+        System.out.println("Estoy en Kinal - 2023529");
     }
     
 }
