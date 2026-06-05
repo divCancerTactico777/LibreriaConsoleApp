@@ -1,0 +1,8 @@
+M = Cat java = Derek
+C = Cat controller = Derek
+V = Cat view = Interiano
+    Menú Principal = Interiano
+
+Utils = Yo merengues
+ 
+Conexión.java
